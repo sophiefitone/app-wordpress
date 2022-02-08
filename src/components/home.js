@@ -35,7 +35,7 @@ export default function Home() {
              </p>
           </div>
 
-           <h1> Cliquez sur l'image pour voir les details </h1>
+           <h1> Clicca sull'immagine per vedere i dettagli</h1>
 
          <div className='flexcontainer'>
 
@@ -45,7 +45,7 @@ export default function Home() {
               </Link>
             ))}
          </div>
-
+   
         </>
     )
 }

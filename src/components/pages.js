@@ -27,7 +27,7 @@ export default function Pages() {
 
             <div className='bg'></div>
             
-            <div className='text'
+            <div className='test'
                dangerouslySetInnerHTML={{ __html: page.content.rendered }}>
             </div>
             

@@ -38,8 +38,6 @@ export default function Posts() {
             <Card key={post.id} style={{ width: '20rem', margin: "17px 20px 12px 60px" }}>
                 <Card.Img variant="top" src={post.featured_media_src_url} /><Card.Body>
                    <Card.Title style={{ fontSize: "30px" }}> {post.title.rendered} </Card.Title>
-                   <Card.Text dangerouslySetInnerHTML={{ __html: post.content.rendered }}>
-                   </Card.Text>
                    <Link to={`/posts/${post.id}`} className="btn btn-warning">View post</Link>
                 </Card.Body>
              </Card>
