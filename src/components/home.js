@@ -5,7 +5,7 @@ import Header from './header'
 
 export default function Home() {
 
-    let APIposts ='http://localhost/wordpress/wp-json/wp/v2/posts'
+    let APIposts ='http://decoinside.altervista.org/wordpress/wp-json/wp/v2/posts'
 
     const [posts, setPosts] = useState([]);
    

@@ -10,11 +10,11 @@ import Register from './components/register';
 
 
 
-/*let APImenu ='http://localhost/wordpress/wp-json/wp-api-menus/v2/menus/2'
-let APIposts ='http://localhost/wordpress/wp-json/wp/v2/posts'
-let APIusers='http://localhost/wordpress/wp-json/wp/v2/users'
-let APIcategories='http://localhost/wordpress/wp-json/wp/v2/categories'
-let APIpages ='http://localhost/wordpress/wp-json/wp/v2/pages'*/
+/*let APImenu ='http://decoinside.altervista.org/wordpress/wp-json/wp-api-menus/v2/menus/2'
+let APIposts ='http://decoinside.altervista.org/wordpress/wp-json/wp/v2/posts'
+let APIusers='http://decoinside.altervista.org/wordpress/wp-json/wp/v2/users'
+let APIcategories='http://decoinside.altervista.org/wordpress/wp-json/wp/v2/categories'
+let APIpages ='http://decoinside.altervista.org/wordpress/wp-json/wp/v2/pages'*/
 
 
 
