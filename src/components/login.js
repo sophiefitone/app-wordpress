@@ -13,7 +13,7 @@ export default function Login() {
     
     let logIn = () =>{
 
-     axios.post('http://decoinside.altervista.org/wordpress/index.php/wp-json//jwt-auth/v1/token',{
+     axios.post('https://decoinside.altervista.org/wordpress/index.php/wp-json/jwt-auth/v1/token',{
          username: username,
          password: password
      }).then(res => {

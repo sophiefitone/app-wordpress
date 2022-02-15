@@ -5,7 +5,7 @@ import './style.css';
 
 export default function Pages() {
 
- let APIpages='http://decoinside.altervista.org/wordpress/wp-json/wp/v2/pages'
+ let APIpages='https://decoinside.altervista.org/wordpress/wp-json/wp/v2/pages'
 
  const [pages, setPages] = useState([]);
 

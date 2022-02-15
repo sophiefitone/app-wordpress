@@ -11,7 +11,7 @@ export default function Register() {
     const [password, setPassword] = useState([]);
     const [email, setEmail] = useState([]);
     
-   let APIusers='http://decoinside.altervista.org/wordpress/wp-json/wp/v2/users'
+   let APIusers='https://decoinside.altervista.org/wordpress/wp-json/wp/v2/users'
    let handleUsername = (e) =>{
     setUsername(e.target.value);
  }

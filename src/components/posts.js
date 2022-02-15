@@ -7,7 +7,7 @@ import Header2 from './header2';
 
 export default function Posts() {
 
- let APIposts ='http://decoinside.altervista.org/wordpress/wp-json/wp/v2/posts'
+ let APIposts ='https://decoinside.altervista.org/wordpress/wp-json/wp/v2/posts'
 
  const [posts, setPosts] = useState([]);
 
