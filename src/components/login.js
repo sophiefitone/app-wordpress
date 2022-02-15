@@ -11,7 +11,6 @@ export default function Login() {
     const [username, setUsername] = useState([]);
     const [password, setPassword] = useState([]);
     
-    
     let logIn = () =>{
 
      axios.post('http://decoinside.altervista.org/wordpress/index.php/wp-json//jwt-auth/v1/token',{
