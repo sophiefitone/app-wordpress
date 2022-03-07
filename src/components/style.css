@@ -135,7 +135,7 @@ padding: 35px;
 }
 .footer{
   position: absolute;
-  height: 150px;
+  height: 110px;
   width: 100%;
   background: #000;
   bottom: 0;
@@ -143,7 +143,8 @@ padding: 35px;
 }
 .footer h2,p{
   text-align: center;
-  color: rgb(240, 152, 45);
+  margin-top: auto;
+  color: rgb(216, 185, 45);
 }
 @keyframes shake {
   0% { transform: translate(1px, 1px) rotate(0deg); }
