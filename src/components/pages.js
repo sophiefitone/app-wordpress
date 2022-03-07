@@ -1,5 +1,6 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react'
+import Footer from './footer';
 import Header2 from './header2';
 import './style.css';
 
@@ -31,6 +32,7 @@ export default function Pages() {
                dangerouslySetInnerHTML={{ __html: page.content.rendered }}>
             </div>
             
+            <Footer />
             </>
          )
             

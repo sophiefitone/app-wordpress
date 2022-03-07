@@ -2,6 +2,7 @@ import axios from 'axios';
 import React, { useEffect, useState } from 'react'
 import { Card } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import Footer from './footer';
 import Header2 from './header2';
 
 
@@ -45,6 +46,8 @@ export default function Posts() {
 ))}
        </div>
       </div>
+      
+      <Footer/>
 </>
         
     )
