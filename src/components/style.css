@@ -135,13 +135,15 @@ padding: 35px;
 }
 .footer{
   position: absolute;
-  height: 100px;
+  height: 150px;
   width: 100%;
   background: #000;
-  color:whitesmoke ;
+  bottom: 0;
+  
 }
 .footer h2,p{
   text-align: center;
+  color: bisque;
 }
 @keyframes shake {
   0% { transform: translate(1px, 1px) rotate(0deg); }
