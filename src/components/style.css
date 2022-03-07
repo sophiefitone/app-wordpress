@@ -137,7 +137,7 @@ padding: 35px;
   position: absolute;
   height: 45px;
   width: 100%;
-  color: black;
+  background: #000;
   bottom: 0;
 }
 .footer h2,p{
