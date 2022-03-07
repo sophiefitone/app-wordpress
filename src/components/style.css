@@ -143,7 +143,7 @@ padding: 35px;
 }
 .footer h2,p{
   text-align: center;
-  color: bisque;
+  color: rgb(240, 152, 45);
 }
 @keyframes shake {
   0% { transform: translate(1px, 1px) rotate(0deg); }
