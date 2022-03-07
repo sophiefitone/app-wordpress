@@ -135,11 +135,10 @@ padding: 35px;
 }
 .containfooter{
   position: absolute;
-  height: 60px;
+  height: 80px;
   width: 100%;
   background: #000;
-  margin-top: 60%;
-  
+  bottom: 0;
 }
 .containfooter h2,p{
   text-align: center;
