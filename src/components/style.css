@@ -133,7 +133,7 @@ padding: 35px;
   animation: shake 0.5s ;
   animation-iteration-count: 4; /* Will shake 4 times*/
 }
-.footer{
+.containfooter{
   position: absolute;
   height: 60px;
   width: 100%;
@@ -141,9 +141,9 @@ padding: 35px;
   margin-top: 60%;
   
 }
-.footer h2,p{
+.containfooter h2,p{
   text-align: center;
-  margin-top: 15px;
+  margin-top: 10px;
   color: rgb(216, 185, 45);
 }
 @keyframes shake {
