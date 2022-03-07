@@ -135,10 +135,10 @@ padding: 35px;
 }
 .footer{
   position: absolute;
-  height: 45px;
+  height: 100px;
   width: 100%;
   background: #000;
-  bottom: 0;
+  color:whitesmoke ;
 }
 .footer h2,p{
   text-align: center;
